@@ -30,7 +30,7 @@ function foo3() {
   // let bar; // TypeError
 }
 
-foo();
-goo();
-foo2();
-foo3();
+// foo();
+// goo();
+// foo2();
+// foo3();

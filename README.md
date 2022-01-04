@@ -30,6 +30,7 @@ let bar;
 // let bar; // TypeError
 }
 
+
 <!--
 foo()
 goo()
